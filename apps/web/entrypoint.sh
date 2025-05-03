@@ -2,4 +2,5 @@
 
 pnpm install
 pnpm prisma migrate dev
-pnpm run dev 
+pnpm run build
+pnpm run start 
